@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EririnG&show_icons=true&theme=radical)
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Erin)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=erin-loft&postId=default)](https://github.com/loosie/github-readme-tistory-card)

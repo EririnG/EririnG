@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Erin)](https://github.com/loosie/github-readme-tistory-card)
 
-[에린의 블로그](https://erin-loft.tistory.com/)
+[에린의 기술 블로그](https://erin-loft.tistory.com/)
